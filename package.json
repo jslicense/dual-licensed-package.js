@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "a test package that is dual-licensed",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
-  "repository": "kemitchell/dual-licensed-package.js",
+  "repository": "jslicense/dual-licensed-package.js",
   "license": "(MIT OR GPL-2.0)"
 }
