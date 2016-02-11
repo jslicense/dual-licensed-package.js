@@ -1,6 +1,6 @@
 {
   "name": "dual-licensed-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a test package that is dual-licensed",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "jslicense/dual-licensed-package.js",
